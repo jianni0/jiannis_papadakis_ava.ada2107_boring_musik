@@ -277,6 +277,10 @@ O *Rolf Landauer* πίστευε ότι η πληροφορία είναι άρ�
 
 *S. Jan, “Replicating sonorities: towards a memetics of music,” J. Memetics- Evolutionary Model. Inf. Transm., vol. 4, no. 1, 2000.*
 
+*Nattiez, J.-J. Music and Discourse: Toward a Semiology of Music, tr. Abbate, C. (Princeton: Princeton University Press), 1990.*
+
+*Meyer, L.B. Style and Music: Theory, History, and Ideology (Philadelphia: University of Pennsylvania Press), 1989.*
+
 *A. A. Moles, “Theorie de linformation et perception esthetique,” 1958.*
 
 *Howard Slater,  Noise & Capitalism (Arteleku Audiolab (Kritika series), 2009 )*
