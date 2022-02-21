@@ -30,7 +30,7 @@
 
  
    Μουσική προκατάληψη μέσω της μιμιδιακής κουλτούρας και η αισθητική του *βαρετού*.
-   Προσπάθεια επεξεργασίας του έργου *Bolero* του *Maurice Ravel* στο *Supercollider*,
+   Προσπάθεια επεξεργασίας του έργου *Bolero* του *Maurice Ravel* στο *SuperCollider*,
    εμπνευσμένη από το έργο *Minusbolero* του *Johannes Kreidler*.
 
 
