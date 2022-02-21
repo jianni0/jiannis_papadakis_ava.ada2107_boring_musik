@@ -85,11 +85,12 @@
 
 
 
-![minus2](https://user-images.githubusercontent.com/95366071/155009947-a7f03cf7-9433-4e7c-b8ce-714f1141d321.jpg)
-
 Αναφορά της Wikipedia μεσω του ClassicFm
 
 *https://www.classicfm.com/composers/ravel/guides/bolero-with-no-melody/*
+
+
+
 
 Το 2009 ο γερμανός συνθετης, και κύριος θεωρητικός και εκφραστής του κινήματος του *New Conceptualism* στη μουσική του 21ου αιώνα, *Johannes Kreidler*, συνέθεσε το έργο *Minusbolero for large orchestra*.
 Πρόκειται για το κλασικό έργο *Bolero* του *Maurice Ravel* στο οποιο ο *Kreidler* αφαίρεσε τα κύρια μελωδικά μέρη του.
@@ -100,6 +101,9 @@
 H μελωδία είναι γνωστή, η συνοδεία είναι ο ήχος του κουδουνιού του Pavlov. Μια απουσία, μια ανισορροπία, πιο παράφωνη από μια παραφωνία.*
 
 *Johannes Kreidler*
+![minus2](https://user-images.githubusercontent.com/95366071/155009947-a7f03cf7-9433-4e7c-b8ce-714f1141d321.jpg)
+                                                     η παρτιτούρα του Minusbolero
+
 
 
 Ο *Johannes Kreidler* μίλησε για το έργο του κάτω από τη ψυχοακουστική συνθήκη και πως ο ανθρώπινος εγκέφαλος μέσω του νευρικού συστήματος επεξεργάζεται τη μουσική οντότητα ως παράγωγο της πληροφορίας αλλά και μέσω της απουσίας αυτής.
