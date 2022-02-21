@@ -83,6 +83,10 @@
 
 *Το Bolero του Ravel χωρίς μελωδία είναι ό,τι πιο βαρετό έχετε ακούσει*
 
+
+
+![minus2](https://user-images.githubusercontent.com/95366071/155009947-a7f03cf7-9433-4e7c-b8ce-714f1141d321.jpg)
+
 Αναφορά της Wikipedia μεσω του ClassicFm
 
 *https://www.classicfm.com/composers/ravel/guides/bolero-with-no-melody/*
