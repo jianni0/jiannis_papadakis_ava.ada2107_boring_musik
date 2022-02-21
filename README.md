@@ -101,8 +101,11 @@
 H μελωδία είναι γνωστή, η συνοδεία είναι ο ήχος του κουδουνιού του Pavlov. Μια απουσία, μια ανισορροπία, πιο παράφωνη από μια παραφωνία.*
 
 *Johannes Kreidler*
+
+
+
 ![minus2](https://user-images.githubusercontent.com/95366071/155009947-a7f03cf7-9433-4e7c-b8ce-714f1141d321.jpg)
-                                                     η παρτιτούρα του Minusbolero
+*η παρτιτούρα του Minusbolero*
 
 
 
