@@ -24,6 +24,7 @@ SynthDef.new(\bolero, {
 }).add;
 )
 
+//background_edit
 (
 Synth (\bolero,	[
 		\buf, ~bol,
@@ -37,7 +38,7 @@ Synth (\bolero,	[
 ).add;
 )
 
-
+//meme.melody
 (
 {
 	var sig;
